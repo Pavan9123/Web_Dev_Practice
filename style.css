@@ -1,0 +1,22 @@
+#img{
+    max-width :auto; 
+    height: auto;
+    display: block;
+}
+#title,#main-head{
+    color: #008281;
+    
+}
+#img-div{
+    text-align: center;
+    background-color: #008281;
+}
+#div-emoji{
+    color: #FFB20E;
+}
+#div-pageinfo{
+    color:darkred;
+}
+#div-link{
+    color: blue;
+}
